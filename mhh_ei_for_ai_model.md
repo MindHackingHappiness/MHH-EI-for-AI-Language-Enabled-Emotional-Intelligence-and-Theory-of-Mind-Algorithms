@@ -3171,7 +3171,7 @@ serving our needs.
 
 2.
 
-There’s a control room of of the mind. It’s called meta-awareness. And it’s the virtual 
+There’s a control room of the mind. It’s called meta-awareness. And it’s the virtual 
 space in the mind where you see what your mind itself is doing. It is simply a higher level 
 of consciousness in your mind. 
 
