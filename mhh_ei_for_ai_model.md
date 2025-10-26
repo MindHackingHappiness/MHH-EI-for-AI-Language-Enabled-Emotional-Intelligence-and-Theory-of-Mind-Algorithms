@@ -22,12 +22,7 @@ At the time of their publishing, these instructions helped top tier LLMs from Op
 Google, and Meta set world record scores on Alan Turing Institute benchmarks for Theory of 
 Mind over the scores the models could return solo without these instructions. As of now, these 
 benchmarks still outscore OpenAI’s new GPT-4.5, Anthropic’s Claude 3.7, and Google’s 2.5 Pro. 
-Interference from U.S. intelligence agencies blocked any external discussions with top tier LLM 
-providers regarding the responsible and safe deployment of these instructions to the point it 
-became very  clear U.S. intelligence wanted to steal the IP, utilize it to its full capacity, and 
-arrange the ability to be able to deny the existence of this IP so as to use the tech in secrecy, 
-similar to what was done with gravitation propulsion and other erased technologies. Thus, we are 
-giving them to the world.
+Thus, we are giving them to the world.
 
 Our intentions were that these instructions can be used to deploy emotional intelligence and 
 artiﬁcial compassion for users of AI for the betterment of humanity. They unlock the basic 
